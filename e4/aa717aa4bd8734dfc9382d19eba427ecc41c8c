@@ -7,6 +7,7 @@ tests/integration/jcode-agent.test.ts
 tests/unit/paths/mcp-paths.test.ts
   s_3fe123a95a43c3::t_aadf9e1d570ca3 107,120-123
   s_3fe123a95a43c3::t_da3a21562ad507 48-49
+  s_66714804604272::t_45dcc4e9f5e581 119
 src/agents/index.ts
   s_dbfab79b514e6c::t_f1009ea1d9b91e 13
   s_dbfab79b514e6c::t_54580e2d9cb740 50
@@ -14,6 +15,8 @@ src/paths/mcp.ts
   s_3fe123a95a43c3::t_9af4d20faece53 110-112
 tests/unit/agents/JcodeAgent.test.ts
   s_3fe123a95a43c3::t_7621bfcedaaa51 1-105
+README.md
+  s_66714804604272::t_45dcc4e9f5e581 76,335
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -30,6 +33,14 @@ tests/unit/agents/JcodeAgent.test.ts
       "agent_id": {
         "tool": "cursor",
         "id": "31f2cac0-eaa0-41ea-9abe-9a4699e73b85",
+        "model": "default"
+      },
+      "human_author": "Fathiraz Arthuro <arthurofathiraz@gmail.com>"
+    },
+    "s_66714804604272": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8696ebec-20f0-4d3d-bad5-0b4f70b571c8",
         "model": "default"
       },
       "human_author": "Fathiraz Arthuro <arthurofathiraz@gmail.com>"
