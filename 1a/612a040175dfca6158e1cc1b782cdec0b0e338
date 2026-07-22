@@ -1,0 +1,19 @@
+package-lock.json
+  s_d8d6979a310d3b::t_6b7e0fa1457dd2 603-605,690-692,2524-2526,3159-3161,3610-3612,5855-5857,6945-6947
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "1a612a040175dfca6158e1cc1b782cdec0b0e338",
+  "prompts": {},
+  "sessions": {
+    "s_d8d6979a310d3b": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a0e65973-86f8-4a2f-8450-35fb19b57db0",
+        "model": "default"
+      },
+      "human_author": "Fathiraz Arthuro <arthurofathiraz@gmail.com>"
+    }
+  }
+}
