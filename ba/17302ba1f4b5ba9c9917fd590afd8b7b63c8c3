@@ -1,0 +1,51 @@
+README.md
+  s_dbfab79b514e6c::t_69d75537131036 322
+  s_dbfab79b514e6c::t_a2092fd2292e23 74
+src/agents/JcodeAgent.ts
+  s_3fe123a95a43c3::t_93e4d6aba38e98 5
+  s_dbfab79b514e6c::t_661f34910fe8a6 1-4,6-32
+tests/integration/jcode-agent.test.ts
+  s_3fe123a95a43c3::t_73091daf8d4246 130
+  s_3fe123a95a43c3::t_03cb64d9e1fb65 1-129,131-133
+tests/unit/paths/mcp-paths.test.ts
+  s_3fe123a95a43c3::t_aadf9e1d570ca3 102-106
+  s_3fe123a95a43c3::t_da3a21562ad507 45-46
+src/agents/index.ts
+  s_dbfab79b514e6c::t_f1009ea1d9b91e 13
+  s_dbfab79b514e6c::t_54580e2d9cb740 45
+src/paths/mcp.ts
+  s_3fe123a95a43c3::t_9af4d20faece53 49-51
+tests/unit/agents/JcodeAgent.test.ts
+  s_3fe123a95a43c3::t_7621bfcedaaa51 1-105
+package-lock.json
+  s_dbfab79b514e6c::t_5a91be77a710d9 3,9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "ba17302ba1f4b5ba9c9917fd590afd8b7b63c8c3",
+  "prompts": {},
+  "humans": {
+    "h_4149ee38f70c87": {
+      "author": "Fathiraz Arthuro <arthurofathiraz@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_3fe123a95a43c3": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "31f2cac0-eaa0-41ea-9abe-9a4699e73b85",
+        "model": "default"
+      },
+      "human_author": "Fathiraz Arthuro <arthurofathiraz@gmail.com>"
+    },
+    "s_dbfab79b514e6c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2265bc99-824d-45de-ba47-9d84fcfb2e00",
+        "model": "default"
+      },
+      "human_author": "Fathiraz Arthuro <arthurofathiraz@gmail.com>"
+    }
+  }
+}
